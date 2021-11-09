@@ -47,3 +47,20 @@ Showcase video
 [![SC2 Video](https://i.ytimg.com/vi/lryboVS7-yI/maxresdefault.jpg)](https://youtu.be/lryboVS7-yI)
 
 </details>
+
+# Homework 3 Ghost detector (EMF detector)
+<details>
+<summary>I hate it</summary>
+
+Make an emf detector which displays values on a 7 segment display and uses a buzzer
+
+Setup images
+
+![Image of whole setup](images/DSC_0563.JPG)
+![Image of whole setup](images/DSC_0560.JPG)
+
+Showcase video
+
+[![SC2 Video](https://i.ytimg.com/vi/-VDrNN7DrZE/maxresdefault.jpg)](https://youtu.be/-VDrNN7DrZE)
+
+</details>
